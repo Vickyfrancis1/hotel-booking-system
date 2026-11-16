@@ -27,7 +27,6 @@ Room 101 has been booked.
 ```
 
 ## What I learned
-## What I learned
 I learned that a class is a blueprint and each object keeps its own data, so booking one room does not affect another. I also learned to test the "nothing to do" cases: checking out a room that was never booked gave a misleading message until I fixed it. The same pattern could be reused for other systems, such as products in a shop or students in a school.
 
 ## Tools used
